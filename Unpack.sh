@@ -1,6 +1,6 @@
 #!/bin/bash
-#######    Unpack     #########
-#######    Itay Haike #########
+#unpack
+#Itay Haike
 FILE=(*.{zip,bz2,cmpr,gz})
 
 COUNT=0
@@ -76,4 +76,3 @@ function repeat (){
 unpack "$FILE"
 
 repeat
-
