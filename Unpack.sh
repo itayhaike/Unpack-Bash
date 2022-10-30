@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#######    Unpack     #########
+#######    Itay Haike #########
 FILE=(*.{zip,bz2,cmpr,gz})
 
 COUNT=0
