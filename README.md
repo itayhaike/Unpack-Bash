@@ -1,3 +1,3 @@
 # Unpack-Bash
 
-This bash script can unpack multiple packed files.
+This bash script can unpack multiple packed files in Linux.
